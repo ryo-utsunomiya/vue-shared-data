@@ -1,0 +1,22 @@
+{
+  "name": "vue-shared-data",
+  "version": "1.0.0",
+  "description": "A Vue.js plugin for shared(application-local) data store ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryo-utsunomiya/vue-shared-data.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Ryo Utsunomiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryo-utsunomiya/vue-shared-data/issues"
+  },
+  "homepage": "https://github.com/ryo-utsunomiya/vue-shared-data#readme"
+}
