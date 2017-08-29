@@ -29,7 +29,6 @@ export default function install(Vue) {
   installed = true;
 }
 
-
 // When Vue is defined as global, install this plugin automatically.
 if (window && window.Vue && window.Vue.use) {
   window.Vue.use(install);
